@@ -7,6 +7,11 @@ Autores: Lesly Acuña y Renzo Massobrio
 Contacto: lesly.acuna@fing.edu.uy | renzom@fing.edu.uy
 
 -------------------------------------------------------------------------------------
+Visualización de los mapas:
+**************************
+
+Los mapas con los resultados del procesamiento se encuentran en las carpetas ACCIDENTES/Resultados y MULTAS/Resultados.
+
 
 Instrucciones de ejecución:
 **************************
